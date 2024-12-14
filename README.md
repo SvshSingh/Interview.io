@@ -15,19 +15,6 @@ The AI-Based Interview Platform is designed for conducting technical job intervi
 * Python (version 3.10)
 * Git
   
-### Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/FireShadow05/techshila-ml
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd techshila-ml
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 1. Start the interview platform:
@@ -44,9 +31,4 @@ The AI-Based Interview Platform is designed for conducting technical job intervi
    Analyzer.ipynb
    ```
    
-## Contributors
-- [Devansh Bhardwaj](https://github.com/FireShadow05)
-- [Shailesh Kumar](https://github.com/captain-peroxide)
-- [Anuj Baliyan](https://github.com/AnuIntelligence/)
-- [Avishkar Pawar](https://github.com/avishkarp231)
-- [Adarsh Kumar](https://github.com/Adda2003)
+
